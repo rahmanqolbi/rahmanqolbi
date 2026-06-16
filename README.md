@@ -1,23 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<p align="left">
-<a href="https://github.com/rahmanqlbi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmanqolbi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmanqolbi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## 🧰 Languages and Tools
 
-<!--
-**rahmanqolbi/rahmanqolbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,java,flutter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🤝 Connect with me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](rqlb.my.id) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmanqolbi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmanqolbi) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmanqolbi)
+
+</div>
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmanqolbi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
